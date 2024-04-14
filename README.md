@@ -1,7 +1,6 @@
 # todo-app-react-redux
 [View Live](https://task-list4.netlify.app/)
 # How to Run Project in our local system
-***Download this project***
 
 **Install necessary Package**
 ***installation command***
